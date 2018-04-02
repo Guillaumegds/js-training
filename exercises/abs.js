@@ -18,8 +18,7 @@ function abs(x) {
    return x = Math.abs(x);
     }
 }
-console.log(parseInt("15"));
-console.log(Math.abs(-12));
+
 
 //* Begin of tests
 const assert = require('assert')
