@@ -14,7 +14,9 @@ const sourceObject = {
   str: 'some text',
   log: console.log,
 }
-
+function get(key) {
+  return sourceObject[key];
+}
 // Your code :
 
 //* Begin of tests

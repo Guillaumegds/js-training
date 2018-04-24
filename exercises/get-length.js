@@ -8,15 +8,12 @@
  */
 
 // Your code :
-let length = "";
-function getLength() {
-    return length.length;
+
+
+function getLength(array) {
+    return array.length;
     
 }
-function getLength() {
-    return length.length;
-}
-
 
 
 

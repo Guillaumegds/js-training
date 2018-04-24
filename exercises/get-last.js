@@ -8,6 +8,11 @@
  */
 
 // Your code :
+function getLast(array) {
+    return array[array.length - 1];
+    // return array.pop();
+}
+
 
 //* Begin of tests
 const assert = require('assert')
